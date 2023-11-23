@@ -1,7 +1,7 @@
 ### **Mini_E-shop_App_React**
 
 - **Features:**
-- - Api link: https://api.escuelajs.co/api/v1/products
+  - Api link: https://api.escuelajs.co/api/v1/products
   - Authentication Form using Firebase
   - Search products by name
   - Cashout basket
