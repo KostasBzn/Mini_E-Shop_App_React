@@ -4,13 +4,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBcbcebsDPdENPQiL28OguVgjAFIlyFvfQ",
-  authDomain: "mini-e-shop-app.firebaseapp.com",
-  projectId: "mini-e-shop-app",
-  storageBucket: "mini-e-shop-app.appspot.com",
-  messagingSenderId: "864623353999",
-  appId: "1:864623353999:web:1c15bb5a3f2da45bd9d0fa",
-  measurementId: "G-Y05RJP29PS",
+  apiKey: "AIzaSyBg2lZhMv6wzLO5QwZlnUAhNNeY-ri_UU8",
+  authDomain: "mini-e-shop-app-dd557.firebaseapp.com",
+  projectId: "mini-e-shop-app-dd557",
+  storageBucket: "mini-e-shop-app-dd557.appspot.com",
+  messagingSenderId: "828114420491",
+  appId: "1:828114420491:web:679f692c87a8abe3e7980e"
 };
 
 // Initialize Firebase
